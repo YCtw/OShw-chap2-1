@@ -6,7 +6,7 @@ Creating, loading, and removing kernel modules - Assignment: Proceed through the
 1. Compile **test.c** with ```make```
 2. Loading module to Linux kernel with command line ```sudo insmod test.ko```
 3. Removing module from Linux kernel with command line ```sudo rmmod test```
-4. Setting **kernel.dmesg_restrict** to 0 with command line ```sudo sysctl kernel.dmesg_restrict=0```
+4. Setting **kernel.dmesg_restrict** to 0 with command line ```sudo sysctl kernel.dmesg_restrict=0```(optional)
 5. Invoke dmesg with command line ```dmesg```
 
 
