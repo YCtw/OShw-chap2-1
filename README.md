@@ -9,6 +9,5 @@ Creating, loading, and removing kernel modules - Assignment: Proceed through the
 4. Setting **kernel.dmesg_restrict** to 0 with command line ```sudo sysctl kernel.dmesg_restrict=0```(optional)
 5. Invoke dmesg with command line ```dmesg```
 
-- Output Screenshot
 ![2222](https://user-images.githubusercontent.com/85775331/227571912-15db0e86-9af7-4447-88f8-ee36ea062348.png)
 ![44444](https://user-images.githubusercontent.com/85775331/227571992-f620e9ec-713a-47e2-be10-820dc0af81df.png)
